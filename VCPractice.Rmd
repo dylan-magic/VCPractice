@@ -1,0 +1,8 @@
+---
+title: "VC Practice Notebook"
+output: html_notebook
+author: "Dylan Magic"
+subtitle: "CPSC 292 Section 02"
+---
+
+
