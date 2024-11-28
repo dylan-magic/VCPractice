@@ -5,4 +5,10 @@ author: "Dylan Magic"
 subtitle: "CPSC 292 Section 02"
 ---
 
+## Practice Notebook 
 
+This is my practice notebook for version control 
+
+```{r}
+plot(mtcars$mpg, mtcars$wt)
+```
